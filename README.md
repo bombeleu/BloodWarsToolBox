@@ -1,5 +1,5 @@
 ###DESCRIPTION
-Ensemble de Scripts pour [Blood Wars](http://www.fr.bloodwars.net) où vous incarnez un vampire dans un monde post-apocalyptique :
+Ensemble de Userscripts pour [Blood Wars](http://www.fr.bloodwars.net) où vous incarnez un vampire dans un monde post-apocalyptique :
 * [BloodWarsEnchanced](https://github.com/Ecilam/BloodWarsEnhanced)
 * [BloodWarsAnalyseRC](https://github.com/Ecilam/BloodWarsAnalyseRC)
 * [BloodWarsSpyData](https://github.com/Ecilam/BloodWarsSpyData)
@@ -27,4 +27,3 @@ Script permettant de transférer l'armurerie au site de [Toolbox](http://www.blo
 ###INFORMATIONS
 * **1ère utilisation:** un message vous rappellera de consulter la Salle du Trône pour que le script puisse récupérer l'IUD du personnage afin de pouvoir fonctionner.
 * **Données:** les préférences sont stockées avec LOCALSTORAGE.
-
